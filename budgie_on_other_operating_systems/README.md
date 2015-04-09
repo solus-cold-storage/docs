@@ -32,13 +32,16 @@ Now you should be able to select Budgie from your login manager e.g GDM/lightdm
 AUR packages
 
 Stable:
-````
-yaourt -S budgie-desktop
-````
+```
+https://aur.archlinux.org/packages/budgie-desktop/
+```
 Git:
-````
-yaourt -S budgie-desktop-git
-````
+```
+https://aur.archlinux.org/packages/budgie-desktop-git/
+```
 
 ####Fedora 20, 21 & OpenSUSE
+On OpenSUSE's Software Portal
+```
 http://software.opensuse.org/download.html?project=home%3Aikeydoherty%3Aevolve&package=budgie-desktop
+```
