@@ -1,3 +1,12 @@
+# Packaging documentation
+### Preface
+
+This documentation serves as a guide for those wishing to contribute to the Solus Project. Notablly it revolves around the topic of packaging.
+
+### Expectations
+
+It is assumed the user is experienced with the command line, and as such has at least a basic working knowledge of Linux or Unix-like systems.
+
 # Prerequisites
 
 To build packages for the Solus Operating System, you must first ensure your system is ready to do so.
