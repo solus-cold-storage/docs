@@ -13,5 +13,6 @@
 * [VirtualBox](virtualbox/README.md)
    * [Solus as Guest](virtualbox/solus_as_guest.md)
    * [Solus as Host](virtualbox/solus_as_host.md)
+* [Contributors](contributors/README.md)
 * [Links](links/README.md)
 
