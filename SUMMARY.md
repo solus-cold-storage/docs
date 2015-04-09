@@ -2,6 +2,7 @@
 
 * [Preface](README.md)
 * [Installation](installation/README.md)
+* [Package List](package_list/README.md)
 * [Package Building](prerequisites/README.md)
    * [evobuild](prerequisites/evobuild.md)
 * [Graphics Drivers](graphics_drivers/README.md)
