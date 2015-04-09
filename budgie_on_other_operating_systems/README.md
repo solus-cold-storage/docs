@@ -9,7 +9,6 @@
 
 ````
 sudo apt-get update && sudo apt-get dist-upgrade
-sudo reboot
 sudo apt-get install build-essential python2 gnome-common gobject-introspection libglib2.0-dev libgtk-3-dev libpulse-dev libpulse-mainloop-glib0 libmutter-dev libwnck-3-dev libupower-glib-dev libgnome-menu-3-dev libc6-dev libpeas-dev libgee-dev libgee-0.8-dev valac git
 git clone https://github.com/evolve-os/budgie-desktop.git
 cd budgie-desktop
