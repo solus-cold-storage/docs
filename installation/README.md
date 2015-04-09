@@ -1,8 +1,8 @@
 # Installation
 ###Requirements:
-USB drive of 2GB or more
-Ability to boot via USB
-ISO file from https://solus-project.com/download/
+- USB drive of 2GB or more
+- Ability to boot via USB
+- ISO file from https://solus-project.com/download/
 
 ####Windows Tools:
 **SUSE Image Writer** - https://github.com/downloads/openSUSE/kiwi/ImageWriter.exe
