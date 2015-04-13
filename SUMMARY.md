@@ -13,6 +13,8 @@
 * [VirtualBox](virtualbox/README.md)
    * [Solus as Guest](virtualbox/solus_as_guest.md)
    * [Solus as Host](virtualbox/solus_as_host.md)
+* [Meeting Minutes](meeting_minutes/README.md)
+   * [2015-04-09](meeting_minutes/2015-04-09.md)
 * [Contributors](contributors/README.md)
 * [Links](links/README.md)
 
