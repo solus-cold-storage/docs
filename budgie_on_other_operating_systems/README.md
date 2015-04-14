@@ -10,7 +10,7 @@
 ````
 sudo apt-get update && sudo apt-get dist-upgrade
 sudo apt-get install build-essential python2.7 gnome-common gobject-introspection libglib2.0-dev libgtk-3-dev libpulse-dev libpulse-mainloop-glib0 libmutter-dev libwnck-3-dev libupower-glib-dev libgnome-menu-3-dev libc6-dev libpeas-dev libgee-dev libgee-0.8-dev valac git
-git clone https://github.com/evolve-os/budgie-desktop.git
+git clone https://github.com/solus-project/budgie-desktop.git
 cd budgie-desktop
 ./autogen.sh --prefix=/usr
 make;sudo make install
@@ -23,7 +23,7 @@ make;sudo make install
 ````
 sudo apt-get update;sudo apt-get upgrade -y
 sudo apt-get install build-essential gnome-common gobject-introspection libglib2.0-dev libgtk-3-dev libpulse-dev libpulse-mainloop-glib0 libmutter-dev libwnck-3-dev libupower-glib-dev libgnome-menu-3-dev libc6-dev libpeas-dev libgee-dev libgee-0.8-dev valac git -y
-git clone https://github.com/evolve-os/budgie-desktop.git;cd budgie-desktop;./autogen.sh --prefix=/usr;make;sudo make install
+git clone https://github.com/solus-project/budgie-desktop.git;cd budgie-desktop;./autogen.sh --prefix=/usr;make;sudo make install
 ````
 Now you should be able to select Budgie from your login manager e.g GDM/lightdm
 
