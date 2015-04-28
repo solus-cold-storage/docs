@@ -35,7 +35,7 @@ sde      8:64   1   7.5G  0 disk
    This is where we **OVER-WRITE** the contents of your USB drive so please ensure you identified the CORRECT drive in lsblk above.
    My command would be below, however you will need to replace sde with the drive we located above
    ```
-sudo dd if=Solus-Beta1.1.iso of=/dev/sde bs=1M;sync`
+sudo dd if=Solus-Beta1.1.iso of=/dev/sde bs=1M;sync
 ```
 This will write the contents of the ISO to the thumb drive so you can boot it and also make sure the data is synchronised so you can eject the USB safely.
 7. Reboot and select your USB Drive in your PC's boot menu (usually a function key like F10).
