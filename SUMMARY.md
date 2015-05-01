@@ -15,6 +15,7 @@
    * [Solus as Host](virtualbox/solus_as_host.md)
 * [Meeting Minutes](meeting_minutes/README.md)
    * [2015-04-09](meeting_minutes/2015-04-09.md)
+* [Timeline](timeline/README.md)
 * [Contributors](contributors/README.md)
 * [Links](links/README.md)
 
