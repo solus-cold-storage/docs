@@ -9,6 +9,10 @@
 **Rufus** - https://rufus.akeo.ie/
 
 ####Linux:
+**Gnome Multi-Writer**
+
+https://wiki.gnome.org/Apps/MultiWriter
+
 **DD**:
 1. Insert USB drive of 2GB or more.
 2. Open your terminal
