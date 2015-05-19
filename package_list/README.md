@@ -1,5 +1,5 @@
 # Package List
-These are packages available in Solus as at the 19th of May 2015
+These are packages available in Solus as of May 19th, 2015.
 
 | Package Name             | Version  | Package Description                                            |
 |:-------------------------|:--------:|:---------------------------------------------------------------|
@@ -83,49 +83,50 @@ These are packages available in Solus as at the 19th of May 2015
 | clutter-gtk              | 1.6.0    | Clutter GTK+ API
 | clutter-gtk-devel        | 1.6.0    | Development files for clutter-gtk
 | clutter-gtk-docs         | 1.6.0    | API Documentation for clutter-gtk
-| cmake                    |          | CMake is a cross-platform, open-source build system
-| cmake-docs               |          | Documentation for cmake
-| cogl                     |          | A modern 3D graphics API
-| cogl-demos               |          | Demonstrations of the cogl API
-| cogl-devel               |          | Development files for cogl
-| colord                   |          | Color Daemon
-| colord-devel             |          | Development files for colord
-| comar                    |          | Manages system configuration
-| comar-api                |          | Utility functions for Comar scripts
-| compositeproto           |          | Composite Extension
-| conky                    |          | Lightweight system monitor for X
-| corebird                 |          | Native Gtk+ Twitter Client
-| coreutils                |          | GNU core utilities
-| cpio                     |          | a program to manage archives of files
-| cppunit                  |          | A C++ unit testing framework
-| cppunit-devel            |          | Development files for cppunit
-| cpufrequtils             |          | Utilities to retrieve cpufreq kernel information
-| cpufrequtils-devel       |          | Development files for cpufrequtils
-| cracklib                 |          | The CrackLib package contains a library used to enforce strong passwords by comparing user selected passwords to words in chosen word lists
-| cracklib-devel           |          | Development files for cracklib
-| cups                     |          | The Common Unix Printing System
-| cups-devel               |          | Development files for cups
-| curl                     |          | Get a file from an HTTP, HTTPS or FTP server
-| curl-devel               |          | Development files for curl
-| cyrus-sasl               |          | Cyrus Simple Authentication Service Layer (SASL) Library
-| cyrus-sasl-devel         |          | Development files for cyrus-sasl
-| damageproto              |          | Damage Extension
-| dash                     |          | POSIX compliant shell
-| db5                      |          | Berkeley Database v5
-| db5-devel                |          | Development files for db5
-| db5-docs                 |          | Berkeley Database v5 - Documentation
-| dbus                     |          | System Message Daemon
-| dbus-devel               |          | Development files for D-Bus
-| dbus-glib                |          | D-Bus GLib Bindings
-| dbus-glib-devel          |          | D-Bus GLib Bindings
-| dc                       |          | The GNU dc arbitrary precision reverse-polish calculator
-| dcfldd                   |          | enhanced version of dd or forensics and security
-| dconf                    |          | GNOME Configuration Database
-| dconf-devel              |          | Development files for DConf
-| dconf-docs               |          | API Documentation for DConf
-| dconf-editor             |          | DConf Graphical Editor
-| dcron                    |          | dcron (Dillon's lightweight cron daemon)
-| ddrescue                 |          | Data recovery tool
+| cmake                    | 3.2.2    | CMake is a cross-platform, open-source build system
+| cmake-docs               | 3.2.2    | Documentation for cmake
+| cntlm                    | 0.92.3   | cntlm authentication proxy
+| cogl                     | 1.20.0   | A modern 3D graphics API
+| cogl-demos               | 1.20.0   | Demonstrations of the cogl API
+| cogl-devel               | 1.20.0   | Development files for cogl
+| colord                   | 1.0.2    | Color Daemon
+| colord-devel             | 1.0.2    | Development files for colord
+| comar                    | 3.0.3    | Manages system configuration
+| comar-api                | 3.0.3    | Utility functions for Comar scripts
+| compositeproto           | 0.4.2    | Composite Extension
+| conky                    | 1.9.0    | Lightweight system monitor for X
+| corebird                 | 1.0      | Native Gtk+ Twitter Client
+| coreutils                | 8.23     | GNU core utilities
+| cpio                     | 2.11     | a program to manage archives of files
+| cppunit                  | 1.13.2   | A C++ unit testing framework
+| cppunit-devel            | 1.13.2   | Development files for cppunit
+| cpufrequtils             | 1.6.0    | Utilities to retrieve cpufreq kernel information
+| cpufrequtils-devel       | 1.6.0    | Development files for cpufrequtils
+| cracklib                 | 2.8.22   | The CrackLib package contains a library used to enforce strong passwords by comparing user selected passwords to words in chosen word lists
+| cracklib-devel           | 2.8.22   | Development files for cracklib
+| cups                     | 1.6.2    | The Common Unix Printing System
+| cups-devel               | 1.6.2    | Development files for cups
+| curl                     | 7.42.1   | Get a file from an HTTP, HTTPS or FTP server
+| curl-devel               | 7.42.1   | Development files for curl
+| cyrus-sasl               | 2.1.26   | Cyrus Simple Authentication Service Layer (SASL) Library
+| cyrus-sasl-devel         | 2.1.26   | Development files for cyrus-sasl
+| damageproto              | 1.2.1    | Damage Extension
+| dash                     | 0.5.7    | POSIX compliant shell
+| db5                      | 5.3.21   | Berkeley Database v5
+| db5-devel                | 5.3.21   | Development files for db5
+| db5-docs                 | 5.3.21   | Berkeley Database v5 - Documentation
+| dbus                     | 1.8.16   | System Message Daemon
+| dbus-devel               | 1.8.16   | Development files for D-Bus
+| dbus-glib                | 0.102    | D-Bus GLib Bindings
+| dbus-glib-devel          | 0.102    | D-Bus GLib Bindings
+| dc                       | 1.06     | The GNU dc arbitrary precision reverse-polish calculator
+| dcfldd                   | 1.3.4    | enhanced version of dd or forensics and security
+| dconf                    | 0.24.0   | GNOME Configuration Database
+| dconf-devel              | 0.24.0   | Development files for DConf
+| dconf-docs               | 0.24.0   | API Documentation for DConf
+| dconf-editor             | 3.16.1   | DConf Graphical Editor
+| dcron                    | 4.5      | dcron (Dillon's lightweight cron daemon)
+| ddrescue                 | 1.19     | Data recovery tool
 | desktop-file-utils       |          | Utilities required for working with Desktop entries
 | dhcpcd                   |          | DHCP client and server
 | diffstat                 |          | diffstat reads the output of diff and displays a histogram of the insertions, deletions, and modifications per-file
