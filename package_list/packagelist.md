@@ -998,211 +998,211 @@ These are packages available in Solus as of May 19th, 2015.
 | python-docutils          |          | Python Documentation Utilities
 | python-geoip             |          | Python API for GeoIP lookups
 | python-gobject           |          | Python GObject bindings
-| python-gobject-devel - Development files for python-gobject
-| python-gobject2 - PyGTK for GTK2 libraries
-| python-gobject2-devel - Development files for python-gobject2
-| python-gobject2-docs - API Documentation for python-gobject2
-| python-gtk2 - GTK+2 bindings for Python
-| python-gtk2-devel - Development files for python-gtk2
-| python-gtk2-docs - API Documentation for python-gtk2
-| python-magic - Python interface for libmagic
-| python-nbxmpp - Python Jabber/XMPP library for Gajim
-| python-openssl - Python interface to the OpenSSL library
-| python-parted - Python bindings to libparted
-| python-psutil - A cross-platform process and system utilities module for Python
-| python-pycurl - Curl module for python
-| python-pygpgme - A Python wrapper for the GPGME library.
-| python-pyliblzma - Python bindings for lzma
-| python-setuptools - Easily download, build, install, upgrade, and uninstall Python packages
-| python-six - Six is a Python 2 and 3 compatibility library
-| python-urlgrabber - A high-level cross-protocol url-grabber
-| python3 - Python development environment - 3.3.2
-| python3-cairo - Python3 Cairo Bindings
-| python3-cairo-devel - Development files for python3-cairo
-| python3-dbus - D-Bus module for Python
-| python3-devel - Development files for python3
-| python3-ezsetup - Python ez_setup
-| python3-gobject - Python API to GObject Introspection
-| python3-gobject-devel - Development files for python3-gobject
-| python3-pylast - last.fm python plugin
-| python3-setuptools - Easily download, build, install, upgrade, and uninstall Python packages
-| pyyaml - Pyython YAML binding
-| qemu - QEMU is a generic and open source machine emulator and virtualizer.
-| qt5 - Cross platform application and UI framework
-| qt5-dbginfo - Debug files for qt5
-| qt5-demos - Demonstration programs for Qt 5
-| qt5-demos-dbginfo - Debug files for qt5-demos
-| qt5-devel - Development files for Qt 5
-| qt5-devel-dbginfo - Debug files for qt5-devel
-| qt5-docs - API Documentation for Qt 5
-| qt5-translations - Localised translations for Qt 5
-| quilt - Scripts for working with series of patches
-| quirky - WIP IRC Client
-| randrproto - X Resize and Rotate Extension (RandR)
-| rarian - Tools for librarian, designed to replace scrollkeeper
-| readline - Another cute console display library
-| readline-devel - Development files for readline
-| recordproto - X Record Extension
-| reiserfsprogs - The tools to maintain a ReiserFS (Reiser v3) filesystem
-| renderproto - X Rendering Extension
-| resourceproto - X Resource Extension
-| rhythmbox - Music playing application for GNOME
-| rhythmbox-devel - Development files for rhythmbox
-| rhythmbox-docs - Documentation for rhythmbox
-| rsync - rsync (remote file sync)
-| ruby - dynamic, reflexive, object-oriented language
-| ruby-devel - Development and documentation files for ruby
-| sane-backends - Scanner Access Now Easy
-| sane-backends-devel - Development files for sane-backends
-| screen - Full-screen window manager that multiplexes a physical terminal
-| screenfetch - Simple system information display from terminal
-| scrnsaverproto - MIT Screen Saver Extension
-| scrot - scrot (SCReen shOT) is a simple commandline screen capture utility
-| sdl2 - Simple DirectMedia Layer
-| sdl2-devel - Development files for sdl2
-| sdl2-image - SDL_image is an image file loading library.
-| sdl2-image-devel - Development files for sdl2-image
-| seahorse - GNOME encryption key and password manager
-| sed - sed (Stream Editor)
-| setxkbmap - X.Org Applications: setxkbmap
-| shadow - login and password tools
-| shared-mime-info - Shared Mime Info Database
-| sharutils - Creates "shell archives" (or shar files) which are in text format and can be mailed
-| simplescreenrecorder - A screen recorder for Linux
-| solus-artwork - Official Solus Operating System artwork
-| sound-theme-freedesktop - Freedesktop reference sound theme
-| spidermonkey - C/C++ JavaScript Engine
-| spidermonkey-devel - Development files for SpiderMonkey
-| sqlite3 - Self contained SQL package
-| sqlite3-devel - Development files for sqlite3
-| sqlite3-docs - Documentation for sqlit3
-| squashfs-tools - Set of tools which creates squashfs filesystem
-| sudo - Run commands as a privileged user
-| sysstat - utilities to monitor system performance and usage activity
-| systemd - System and Service Manager
-| systemd-devel - systemd development headers
-| taglib - Library to read metadata from a variety of multimedia formats
-| taglib-devel - Development files for taglib
-| tar - tar (Create and extract archives)
-| tcpdump - dump traffic on a network
-| tdb - Transactional database
-| tdb-devel - Development files for tdb
-| tdb-utils - Command line utilities for tdb
-| telegram - Telegram is a messaging app with a focus on speed and security, it’s super fast, simple and free
-| texinfo - texinfo (Documentation format used by GNU)
-| the-widget-factory-3 - The Widget Factory for GTK3
-| thunderbird - Thunderbird Email Client
-| time - time (Measure CPU/Memory resource other programs use)
-| tmux - terminal multiplexer
-| totem - GNOME Multimedia Player
-| totem-devel - Development files for totem
-| totem-docs - API Documentation for totem
-| totem-pl-parser - Totem playlist parser
-| totem-pl-parser-devel - Development files for totem-pl-parser
-| totem-pl-parser-docs - Documentation for totem-pl-parser
-| transmission - Lightweight BitTorrent client
-| tree - list contents of directories in a tree-like format.
-| tzdata - Timezone data files
-| udisks - Daemon, tools and libraries to access disks and storage devices
-| udisks-devel - Development files for udisks
-| udisks-docs - API Documentation for udisks
-| unzip - Info-ZIP unzip program
-| upower - UPower is an abstraction for enumerating power devices, listening to device events and querying history and statistics
-| upower-devel|Development files for upower
-| usbutils                  | usbutils (USB Utilities)
-| util-linux                  | util-linux (Essential Linux utilties)
-| util-linux-devel                  | util-linux (Essential Linux utilties)
-| util-macros | Macros required for building X11
-| v4l-utils | Linux V4L2 and DVB API utilities and v4l libraries
-| v4l-utils-devel | Development files for v4l-utils
-| vala | Compiler for the GObject type system
-| vala-docs | Documentation for Vala
-| valgrind | Valgrind (Instrumentation framework for analysis tools)
-| vertex-gtk-theme | Vertex Theme
-| videoproto | X Video Extension
-| viewnior | Fast and elegant image viewer
-| vim | Vi IMproved, an advanced text editor
-| vino | a VNC server for the GNOME desktop
-| virtualenv | Tool to create isolated Python environments
-| vlc | Open source multimedia player
-| vlc-devel | Development files for vlc
-| vo-aacenc | Audio codecs extracted from Android Open Source Project
-| vo-aacenc-devel | Development files for vo-aacenc
-| vocal | The podcast client for the modern free desktop
-| wavpack | WavPack audio compression tools
-| wavpack-devel | Development files for wavpack
-| wavpack-utils | Command line utilties for wavpack
-| wayland | Wayland is intended as a simpler replacement for X, easier to develop and maintain
-| wayland-devel | Development files for wayland
-| weston | Weston SDK
-| weston-devel | Development files for weston
-| wget | retrieves files from the web
-| which | Find program in path
-| wireless-tools | Tools to configure wireless lan cards
-| wireless-tools-devel | Tools to configure wireless lan cards
-| wpa_supplicant | WiFi authentication client and server
-| wxwidgets | Cross-platform UI toolkit library
-| wxwidgets-devel | Development files for wxwidgets
-| x264 | A library for encoding video streams into the H.264/MPEG-4 AVC format
-| x264-devel | Development files for x264
-| xauth | X.Org Applications: xauth
-| xcb-proto | XML-XCB Protocol
-| xcb-util | Additional extensions to the XCB library
-| xcb-util-devel | Development files for xcb-util
-| xcb-util-keysyms | Utility libraries for XC Binding | Standard X key constants and conversion to/from keycodes
-| xcb-util-keysyms-devel | Development files for xcb-util-keysyms
-| xcb-util-wm | libraries which provide client and window-manager helpers for EWMH and ICCCM.
-| xcb-util-wm-devel | Development files for xcb-util-wm
-| xcmiscproto | XC-MISC Extension
-| xdg-user-dirs | Tool to manage well known user directories
-| xdg-user-dirs-gtk - Creates user dirs and asks to relocalize them
-| xdg-utils - Tools to assist with desktop integration tasks
-| xdpyinfo - X.Org Applications: xdpyinfo
-| xextproto - X Protocol Extensions
-| xf86bigfontproto - xf86bigfontproto X Extension
-| xf86dgaproto - X11 Direct Graphics Access extension library
-| xf86driproto - XFree86 Direct Rendering Infrastructure Extension
-| xf86vidmodeproto - XFree86 Video Mode Extension
-| xineramaproto - X Xinerama Extension
-| xinit - The xinit package contains a usable script to start the xserver
-| xkbcomp - X.Org Applications: xkbcomp
-| xkbcomp-devel - X.Org Applications: xkbcomp
-| xkeyboard-config - Keyboard configuration database
-| xorg-driver-input-evdev - Generic Linux input driver
-| xorg-driver-input-evdev-devel - Development files for Evdev
-| xorg-driver-input-synaptics - Support for touchpads
-| xorg-driver-input-synaptics-devel - Support for touchpads
-| xorg-driver-input-vmmouse - VMMouse input driver
-| xorg-driver-input-wacom - Input driver for Wacom/Wacom-like tablets
-| xorg-driver-input-wacom-devel - Development files for xorg-driver-input-wacom
-| xorg-driver-video-cirrus - Cirrus Video Driver
-| xorg-driver-video-fbdev - Framebuffer Video Driver
-| xorg-driver-video-intel - Intel Video Driver
-| xorg-driver-video-mach64 - Mach64 Video Driver
-| xorg-driver-video-matrox - Matrox Video Driver
-| xorg-driver-video-nouveau - Alternative video driver for NVIDIA graphics cards
-| xorg-driver-video-openchrome - OpenChrome Video Driver
-| xorg-driver-video-radeon - Open source Radeon Video Driver
-| xorg-driver-video-rage128 - ATi Rage 128 Video Driver
-| xorg-driver-video-savage - Savage Video Driver
-| xorg-driver-video-sis - SiS Video Driver
-| xorg-driver-video-vesa - Generic VESA video driver
-| xorg-driver-video-vmware - VMWare Video Driver
-| xorg-driver-video-voodoo - Voodoo Video Driver
-| xorg-server - The Xorg Server is the core of the X Window system.
-| xorg-server-devel - Development files for xorg-server
-| xprop - X.Org Applications: xprop
-| xproto - X Window System Core Protocol
-| xrandr - X.Org Applications: xrandr
-| xtrans - X Network Transport Base Code
-| xz - xz (Data compression software)
-| xz-devel - Development files for XZ
-| yasm - Rewrite of the NASM assembler
-| youtube-dl - Small command-line program to download videos form youtube
-| ypkg - ypkg build tool
-| zenity - A tool that allows you to display GTK dialog boxes in commandline and shell scripts
-| zip - Archiver for .zip files
-| zlib - zlib (Compression library)
-| zlib-devel - Development files for zlib
-| zopfli - Zopfli Compression Algorithm is a compression library
-| zsh - The Z Shell
+| python-gobject-devel     |          | Development files for python-gobject
+| python-gobject2          |          | PyGTK for GTK2 libraries
+| python-gobject2-devel    |          | Development files for python-gobject2
+| python-gobject2-docs     |          | API Documentation for python-gobject2
+| python-gtk2              |          | GTK+2 bindings for Python
+| python-gtk2-devel        |          | Development files for python-gtk2
+| python-gtk2-docs         |          | API Documentation for python-gtk2
+| python-magic             |          | Python interface for libmagic
+| python-nbxmpp            |          | Python Jabber/XMPP library for Gajim
+| python-openssl           |          | Python interface to the OpenSSL library
+| python-parted            |          | Python bindings to libparted
+| python-psutil            |          | A cross-platform process and system utilities module for Python
+| python-pycurl            |          | Curl module for python
+| python-pygpgme           |          | A Python wrapper for the GPGME library.
+| python-pyliblzma         |          | Python bindings for lzma
+| python-setuptools        |          | Easily download, build, install, upgrade, and uninstall Python packages
+| python-six               |          | Six is a Python 2 and 3 compatibility library
+| python-urlgrabber        |          | A high-level cross-protocol url-grabber
+| python3                  | 3.3.2    | Python development environment
+| python3-cairo            |          | Python3 Cairo Bindings
+| python3-cairo-devel      |          | Development files for python3-cairo
+| python3-dbus             |          | D-Bus module for Python
+| python3-devel            |          | Development files for python3
+| python3-ezsetup          |          | Python ez_setup
+| python3-gobject          |          | Python API to GObject Introspection
+| python3-gobject-devel    |          | Development files for python3-gobject
+| python3-pylast           |          | last.fm python plugin
+| python3-setuptools       |          | Easily download, build, install, upgrade, and uninstall Python packages
+| pyyaml                   |          | Python YAML binding
+| qemu                     |          | QEMU is a generic and open source machine emulator and virtualizer.
+| qt5                      |          | Cross platform application and UI framework
+| qt5-dbginfo              |          | Debug files for qt5
+| qt5-demos                |          | Demonstration programs for Qt 5
+| qt5-demos-dbginfo        |          | Debug files for qt5-demos
+| qt5-devel                |          | Development files for Qt 5
+| qt5-devel-dbginfo        |          | Debug files for qt5-devel
+| qt5-docs                 |          | API Documentation for Qt 5
+| qt5-translations         |          | Localised translations for Qt 5
+| quilt                    |          | Scripts for working with series of patches
+| quirky                   |          | WIP IRC Client
+| randrproto               |          | X Resize and Rotate Extension (RandR)
+| rarian                   |          | Tools for librarian, designed to replace scrollkeeper
+| readline                 |          | Another cute console display library
+| readline-devel           |          | Development files for readline
+| recordproto              |          | X Record Extension
+| reiserfsprogs            |          | The tools to maintain a ReiserFS (Reiser v3) filesystem
+| renderproto              |          | X Rendering Extension
+| resourceproto            |          | X Resource Extension
+| rhythmbox                |          | Music playing application for GNOME
+| rhythmbox-devel          |          | Development files for rhythmbox
+| rhythmbox-docs           |          | Documentation for rhythmbox
+| rsync                    |          | rsync (remote file sync)
+| ruby                     |          | dynamic, reflexive, object-oriented language
+| ruby-devel               |          | Development and documentation files for ruby
+| sane-backends            |          | Scanner Access Now Easy
+| sane-backends-devel      |          | Development files for sane-backends
+| screen                   |          | Full-screen window manager that multiplexes a physical terminal
+| screenfetch              |          | Simple system information display from terminal
+| scrnsaverproto           |          | MIT Screen Saver Extension
+| scrot                    |          | scrot (SCReen shOT) is a simple commandline screen capture utility
+| sdl2                     |          | Simple DirectMedia Layer
+| sdl2-devel               |          | Development files for sdl2
+| sdl2-image               |          | SDL_image is an image file loading library.
+| sdl2-image-devel         |          | Development files for sdl2-image
+| seahorse                 |          | GNOME encryption key and password manager
+| sed                      |          | sed (Stream Editor)
+| setxkbmap                |          | X.Org Applications: setxkbmap
+| shadow                   |          | login and password tools
+| shared-mime-info         |          | Shared Mime Info Database
+| sharutils                |          | Creates "shell archives" (or shar files) which are in text format and can be mailed
+| simplescreenrecorder     |          | A screen recorder for Linux
+| solus-artwork            |          | Official Solus Operating System artwork
+| sound-theme-freedesktop  |          | Freedesktop reference sound theme
+| spidermonkey             |          | C/C++ JavaScript Engine
+| spidermonkey-devel       |          | Development files for SpiderMonkey
+| sqlite3                  |          | Self contained SQL package
+| sqlite3-devel            |          | Development files for sqlite3
+| sqlite3-docs             |          | Documentation for sqlit3
+| squashfs-tools           |          | Set of tools which creates squashfs filesystem
+| sudo                     |          | Run commands as a privileged user
+| sysstat                  |          | utilities to monitor system performance and usage activity
+| systemd                  |          | System and Service Manager
+| systemd-devel            |          | systemd development headers
+| taglib                   |          | Library to read metadata from a variety of multimedia formats
+| taglib-devel             |          | Development files for taglib
+| tar                      |          | tar (Create and extract archives)
+| tcpdump                  |          | dump traffic on a network
+| tdb                      |          | Transactional database
+| tdb-devel                |          | Development files for tdb
+| tdb-utils                |          | Command line utilities for tdb
+| telegram                 |          | Telegram is a messaging app with a focus on speed and security, it’s super fast, simple and free
+| texinfo                  |          | texinfo (Documentation format used by GNU)
+| the-widget-factory-3     |          | The Widget Factory for GTK3
+| thunderbird              |          | Thunderbird Email Client
+| time                     |          | time (Measure CPU/Memory resource other programs use)
+| tmux                     |          | terminal multiplexer
+| totem                    |          | GNOME Multimedia Player
+| totem-devel              |          | Development files for totem
+| totem-docs               |          | API Documentation for totem
+| totem-pl-parser          |          | Totem playlist parser
+| totem-pl-parser-devel    |          | Development files for totem-pl-parser
+| totem-pl-parser-docs     |          | Documentation for totem-pl-parser
+| transmission             |          | Lightweight BitTorrent client
+| tree                     |          | list contents of directories in a tree-like format.
+| tzdata                   |          | Timezone data files
+| udisks                   |          | Daemon, tools and libraries to access disks and storage devices
+| udisks-devel             |          | Development files for udisks
+| udisks-docs              |          | API Documentation for udisks
+| unzip                    |          | Info-ZIP unzip program
+| upower                   |          | UPower is an abstraction for enumerating power devices, listening to device events and querying history and statistics
+| upower-devel             |          | Development files for upower
+| usbutils                 |          | usbutils (USB Utilities)
+| util-linux               |          | util-linux (Essential Linux utilties)
+| util-linux-devel         |          | util-linux (Essential Linux utilties)
+| util-macros              |          | Macros required for building X11
+| v4l-utils                |          | Linux V4L2 and DVB API utilities and v4l libraries
+| v4l-utils-devel          |          | Development files for v4l-utils
+| vala                     |          | Compiler for the GObject type system
+| vala-docs                |          | Documentation for Vala
+| valgrind                 |          | Valgrind (Instrumentation framework for analysis tools)
+| vertex-gtk-theme         |          | Vertex Theme
+| videoproto               |          | X Video Extension
+| viewnior                 |          | Fast and elegant image viewer
+| vim                      |          | Vi IMproved, an advanced text editor
+| vino                     |          | a VNC server for the GNOME desktop
+| virtualenv               |          | Tool to create isolated Python environments
+| vlc                      |          | Open source multimedia player
+| vlc-devel                |          | Development files for vlc
+| vo-aacenc                |          | Audio codecs extracted from Android Open Source Project
+| vo-aacenc-devel          |          | Development files for vo-aacenc
+| vocal                    |          | The podcast client for the modern free desktop
+| wavpack                  |          | WavPack audio compression tools
+| wavpack-devel            |          | Development files for wavpack
+| wavpack-utils            |          | Command line utilties for wavpack
+| wayland                  |          | Wayland is intended as a simpler replacement for X, easier to develop and maintain
+| wayland-devel            |          | Development files for wayland
+| weston                   |          | Weston SDK
+| weston-devel             |          | Development files for weston
+| wget                     |          | retrieves files from the web
+| which                    |          | Find program in path
+| wireless-tools           |          | Tools to configure wireless lan cards
+| wireless-tools-devel     |          | Tools to configure wireless lan cards
+| wpa_supplicant           |          | WiFi authentication client and server
+| wxwidgets                |          | Cross-platform UI toolkit library
+| wxwidgets-devel          |          | Development files for wxwidgets
+| x264                     |          | A library for encoding video streams into the H.264/MPEG-4 AVC format
+| x264-devel               |          | Development files for x264
+| xauth                    |          | X.Org Applications: xauth
+| xcb-proto                |          | XML-XCB Protocol
+| xcb-util                 |          | Additional extensions to the XCB library
+| xcb-util-devel           |          | Development files for xcb-util
+| xcb-util-keysyms         |          | Utility libraries for XC Binding | Standard X key constants and conversion to/from keycodes
+| xcb-util-keysyms-devel   |          | Development files for xcb-util-keysyms
+| xcb-util-wm              |          | libraries which provide client and window-manager helpers for EWMH and ICCCM
+| xcb-util-wm-devel        |          | Development files for xcb-util-wm
+| xcmiscproto              |          | XC-MISC Extension
+| xdg-user-dirs            |          | Tool to manage well known user directories
+| xdg-user-dirs-gtk        |          | Creates user dirs and asks to relocalize them
+| xdg-utils                |          | Tools to assist with desktop integration tasks
+| xdpyinfo                 |          | X.Org Applications: xdpyinfo
+| xextproto                |          | X Protocol Extensions
+| xf86bigfontproto         |          | xf86bigfontproto X Extension
+| xf86dgaproto             |          | X11 Direct Graphics Access extension library
+| xf86driproto             |          | XFree86 Direct Rendering Infrastructure Extension
+| xf86vidmodeproto         |          | XFree86 Video Mode Extension
+| xineramaproto            |          | X Xinerama Extension
+| xinit                    |          | The xinit package contains a usable script to start the xserver
+| xkbcomp                  |          | X.Org Applications: xkbcomp
+| xkbcomp-devel            |          | X.Org Applications: xkbcomp
+| xkeyboard-config         |          | Keyboard configuration database
+| xorg-driver-input-evdev  |          | Generic Linux input driver
+| xorg-driver-input-evdev-devel|      | Development files for Evdev
+| xorg-driver-input-synaptics|        | Support for touchpads
+| xorg-driver-input-synaptics-devel|  | Support for touchpads
+| xorg-driver-input-vmmouse|          | VMMouse input driver
+| xorg-driver-input-wacom  |          | Input driver for Wacom/Wacom-like tablets
+| xorg-driver-input-wacom-devel|      | Development files for xorg-driver-input-wacom
+| xorg-driver-video-cirrus |          | Cirrus Video Driver
+| xorg-driver-video-fbdev  |          | Framebuffer Video Driver
+| xorg-driver-video-intel  |          | Intel Video Driver
+| xorg-driver-video-mach64 |          | Mach64 Video Driver
+| xorg-driver-video-matrox |          | Matrox Video Driver
+| xorg-driver-video-nouveau|          | Alternative video driver for NVIDIA graphics cards
+| xorg-driver-video-openchrome|       | OpenChrome Video Driver
+| xorg-driver-video-radeon |          | Open source Radeon Video Driver
+| xorg-driver-video-rage128|          | ATi Rage 128 Video Driver
+| xorg-driver-video-savage |          | Savage Video Driver
+| xorg-driver-video-sis    |          | SiS Video Driver
+| xorg-driver-video-vesa   |          | Generic VESA video driver
+| xorg-driver-video-vmware |          | VMWare Video Driver
+| xorg-driver-video-voodoo |          | Voodoo Video Driver
+| xorg-server              |          | The Xorg Server is the core of the X Window system.
+| xorg-server-devel        |          | Development files for xorg-server
+| xprop                    |          | X.Org Applications: xprop
+| xproto                   |          | X Window System Core Protocol
+| xrandr                   |          | X.Org Applications: xrandr
+| xtrans                   |          | X Network Transport Base Code
+| xz                       |          | xz (Data compression software)
+| xz-devel                 |          | Development files for XZ
+| yasm                     |          | Rewrite of the NASM assembler
+| youtube-dl               |          | Small command-line program to download videos from youtube
+| ypkg                     |          | ypkg build tool
+| zenity                   |          | A tool that allows you to display GTK dialog boxes in commandline and shell scripts
+| zip                      |          | Archiver for .zip files
+| zlib                     |          | zlib (Compression library)
+| zlib-devel               |          | Development files for zlib
+| zopfli                   |          | Zopfli Compression Algorithm is a compression library
+| zsh                      |          | The Z Shell
