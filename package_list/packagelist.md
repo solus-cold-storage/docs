@@ -599,105 +599,105 @@ These are packages available in Solus as of May 19th, 2015.
 | libmediaart-docs         |          | Documentation for libmediaart
 | libmodplug               |          | Library for playing MOD-like music files
 | libmodplug-devel         |          | Development files for libmodplug
-| libmpeg2 - A free MPEG-2 video stream decoder
-| libmpeg2-devel - Development files for libmpeg2
-| libmpeg2-utils - Command line utilities for libmpeg2
-| libmpg123 - Console based mp3 decoder
-| libmpg123-devel - Development files for libmpg123
-| libnettle - Low level cryptographic library
-| libnettle-devel - Development files for libnettle
-| libnl - a collection of libraries providing APIs to netlink protocol based Linux kernel interfaces
-| libnl-devel - Development files for libnl
-| libnotify - Desktop notifications library
-| libnotify-devel - Development files for libnotify
-| libnotify-docs - API Documentation for libnotify
-| libnspr - Netscape Portable Runtime
-| libnspr-devel - Development files for libnspr
-| libnss - Network Security Services
-| libnss-devel - Development files for libnss
-| liboauth - Library implementing OAuth Core RFC 5849 standard
-| liboauth-devel - Development files for liboauth
-| libogg - Ogg format library
-| libogg-devel - Development files for libogg
-| libogg-docs - API Documentation for libogg
-| libotr - Off The Record Messaging library
-| libotr-bin - Testing toolkit for libotr
-| libotr-devel - Development files for libotr
-| libp11-kit - The p11-kit package Provides a way to load and enumerate PKCS #11 (a Cryptographic Token Interface Standard) modules
-| libp11-kit-devel - Development files for libp11-kit
-| libp11-kit-docs - API Documentation for libp11-kit
-| libpaper - Paper size library
-| libpaper-devel - Development files for libpaper
-| libpaper-docs - Documentation files for libpaper
-| libparted - Disk partitioning and partition resizing tool - shared libraries
-| libparted-devel - Development files for libparted
-| libpcap - packet capture library
-| libpcap-devel - Development files for libpcap
-| libpciaccess - Generic PCI access library for X
-| libpciaccess-devel - Development files for libpciaccess
-| libpcre - pcre (Perl Compatible Regular Expressions)
-| libpcre-devel - pcre (Perl Compatible Regular Expressions)
-| libpeas - libpeas provides a plugin framework for GLib applications
-| libpeas-devel - Development files for libpeas
-| libpeas-docs - API Documentation for libpeas
-| libpipeline - pipeline manipulation library.
-| libpipeline-devel - Development files for libpipeline
-| libpng - libpng (Official PNG reference library)
-| libpng-devel - Development files for libpng
-| libproxy - libproxy is a library that provides automatic proxy configuration management
-| libproxy-devel - Development files for libproxy
-| libpth - GNU Portable Threads Library
-| libpth-devel - Development files for libpth
-| libpurple - libpurple is intended to be the core of an IM program. Programs are written using this library as the backend for chat programs. Pidgin is the GTK+ frontend, and Finch is the ncurses / command line frontend
-| libpurple-devel - Development files for libpurple
-| libpwquality - Library for password quality checking and generating random passwords
-| libpwquality-devel - Development files for libpwquality
-| libqmi - WWAN modem (QMI) protocol library
-| libqmi-devel - Development files for libqmi
-| libqmi-docs - API documentation for libqmi
-| libquvi-scripts - libquvi-scripts
-| librarian - GNOME Documentation Metadata Library
-| librarian-devel - Development files for librarian
-| libraw1394 - Library providing raw IEE1394 support to userspace
-| libraw1394-devel - Development files for libraw1394
-| libraw1394-utils - Command line utilties for libraw1394
-| libreoffice-base - LibreOffice Database Application
-| libreoffice-base-help - LibreOffice Base Help
-| libreoffice-calc - LibreOffice Spreadsheet Application
-| libreoffice-calc-help - LibreOffice Calc Help
-| libreoffice-common - LibreOffice Common Files
-| libreoffice-common-dictionaries - LibreOffice additional dictionaries
-| libreoffice-common-help - LibreOffice Common Help Files
-| libreoffice-draw - LibreOffice Drawing Application
-| libreoffice-draw-help - LibreOffice Draw Help
-| libreoffice-impress - LibreOffice Slideshow Application
-| libreoffice-impress-help - LibreOffice Impress Help
-| libreoffice-math - LibreOffice Equation Editor
-| libreoffice-math-help - LibreOffice Math Help
-| libreoffice-writer - LibreOffice Word Processor
-| libreoffice-writer-help - LibreOffice Word Processor Help
-| librest - RESTful API library
-| librest-devel - Development files for librest
-| librest-docs - API Documentation for librest
-| librsvg - Library to render SVG files using cairo
-| librsvg-devel - Development files for librsvg
-| libsamplerate - libsamplerate is a Sample Rate Converter for audio
-| libsamplerate-devel - Development files for libsamplerate
-| libsecret - The libsecret package contains a GObject based library for accessing the Secret Service API
-| libsecret-devel - Development files for libsecret
-| libsecret-docs - API Documentation for libsecret
-| libshout - Library which can be used to write a source client like ices
-| libshout-devel - Development files for libshout
-| libsigc++ - The libsigc++ package implements a typesafe callback system for standard C++
-| libsigc++-devel - Development files for libsigc++
-| libsigc++-docs - API Documentation for libsigc++
-| libsm - X Session Management Library
-| libsm-devel - Development files for libsm
-| libsndfile - Read/write file library containing sampled sound
-| libsndfile-devel - Development files for libsndfile
-| libsoup - GNOME HTTP client/server library
-| libsoup-devel - Development files for libsoup
-| libsoup-docs - API Documentation for libsoup
+| libmpeg2                 |          | A free MPEG-2 video stream decoder
+| libmpeg2-devel           |          | Development files for libmpeg2
+| libmpeg2-utils           |          | Command line utilities for libmpeg2
+| libmpg123                |          | Console based mp3 decoder
+| libmpg123-devel          |          | Development files for libmpg123
+| libnettle                |          | Low level cryptographic library
+| libnettle-devel          |          | Development files for libnettle
+| libnl                    |          | a collection of libraries providing APIs to netlink protocol based Linux kernel interfaces
+| libnl-devel              |          | Development files for libnl
+| libnotify                |          | Desktop notifications library
+| libnotify-devel          |          | Development files for libnotify
+| libnotify-docs           |          | API Documentation for libnotify
+| libnspr                  |          | Netscape Portable Runtime
+| libnspr-devel            |          | Development files for libnspr
+| libnss                   |          | Network Security Services
+| libnss-devel             |          | Development files for libnss
+| liboauth                 |          | Library implementing OAuth Core RFC 5849 standard
+| liboauth-devel           |          | Development files for liboauth
+| libogg                   |          | Ogg format library
+| libogg-devel             |          | Development files for libogg
+| libogg-docs              |          | API Documentation for libogg
+| libotr                   |          | Off The Record Messaging library
+| libotr-bin               |          | Testing toolkit for libotr
+| libotr-devel             |          | Development files for libotr
+| libp11-kit               |          | The p11-kit package Provides a way to load and enumerate PKCS #11 (a Cryptographic Token Interface Standard) modules
+| libp11-kit-devel         |          | Development files for libp11-kit
+| libp11-kit-docs          |          | API Documentation for libp11-kit
+| libpaper                 |          | Paper size library
+| libpaper-devel           |          | Development files for libpaper
+| libpaper-docs            |          | Documentation files for libpaper
+| libparted                |          | Disk partitioning and partition resizing tool - shared libraries
+| libparted-devel          |          | Development files for libparted
+| libpcap                  |          | packet capture library
+| libpcap-devel            |          | Development files for libpcap
+| libpciaccess             |          | Generic PCI access library for X
+| libpciaccess-devel       |          | Development files for libpciaccess
+| libpcre                  |          | pcre (Perl Compatible Regular Expressions)
+| libpcre-devel            |          | pcre (Perl Compatible Regular Expressions)
+| libpeas                  |          | libpeas provides a plugin framework for GLib applications
+| libpeas-devel            |          | Development files for libpeas
+| libpeas-docs             |          | API Documentation for libpeas
+| libpipeline              |          | pipeline manipulation library
+| libpipeline-devel        |          | Development files for libpipeline
+| libpng                   |          | libpng (Official PNG reference library)
+| libpng-devel             |          | Development files for libpng
+| libproxy                 |          | libproxy is a library that provides automatic proxy configuration management
+| libproxy-devel           |          | Development files for libproxy
+| libpth                   |          | GNU Portable Threads Library
+| libpth-devel             |          | Development files for libpth
+| libpurple                |          | libpurple is intended to be the core of an IM program
+| libpurple-devel          |          | Development files for libpurple
+| libpwquality             |          | Library for password quality checking and generating random passwords
+| libpwquality-devel       |          | Development files for libpwquality
+| libqmi                   |          | WWAN modem (QMI) protocol library
+| libqmi-devel             |          | Development files for libqmi
+| libqmi-docs              |          | API documentation for libqmi
+| libquvi-scripts          |          | libquvi-scripts
+| librarian                |          | GNOME Documentation Metadata Library
+| librarian-devel          |          | Development files for librarian
+| libraw1394               |          | Library providing raw IEE1394 support to userspace
+| libraw1394-devel         |          | Development files for libraw1394
+| libraw1394-utils         |          | Command line utilties for libraw1394
+| libreoffice-base         |          | LibreOffice Database Application
+| libreoffice-base-help    |          | LibreOffice Base Help
+| libreoffice-calc         |          | LibreOffice Spreadsheet Application
+| libreoffice-calc-help    |          | LibreOffice Calc Help
+| libreoffice-common       |          | LibreOffice Common Files
+| libreoffice-common-dictionaries|    | LibreOffice additional dictionaries
+| libreoffice-common-help  |          | LibreOffice Common Help Files
+| libreoffice-draw         |          | LibreOffice Drawing Application
+| libreoffice-draw-help    |          | LibreOffice Draw Help
+| libreoffice-impress      |          | LibreOffice Slideshow Application
+| libreoffice-impress-help |          | LibreOffice Impress Help
+| libreoffice-math         |          | LibreOffice Equation Editor
+| libreoffice-math-help    |          | LibreOffice Math Help
+| libreoffice-writer       |          | LibreOffice Word Processor
+| libreoffice-writer-help  |          | LibreOffice Word Processor Help
+| librest                  |          | RESTful API library
+| librest-devel            |          | Development files for librest
+| librest-docs             |          | API Documentation for librest
+| librsvg                  |          | Library to render SVG files using cairo
+| librsvg-devel            |          | Development files for librsvg
+| libsamplerate            |          | libsamplerate is a Sample Rate Converter for audio
+| libsamplerate-devel      |          | Development files for libsamplerate
+| libsecret                |          | The libsecret package contains a GObject based library for accessing the Secret Service API
+| libsecret-devel          |          | Development files for libsecret
+| libsecret-docs           |          | API Documentation for libsecret
+| libshout                 |          | Library which can be used to write a source client like ices
+| libshout-devel           |          | Development files for libshout
+| libsigc++                |          | The libsigc++ package implements a typesafe callback system for standard C++
+| libsigc++-devel          |          | Development files for libsigc++
+| libsigc++-docs           |          | API Documentation for libsigc++
+| libsm                    |          | X Session Management Library
+| libsm-devel              |          | Development files for libsm
+| libsndfile               |          | Read/write file library containing sampled sound
+| libsndfile-devel         |          | Development files for libsndfile
+| libsoup                  |          | GNOME HTTP client/server library
+| libsoup-devel            |          | Development files for libsoup
+| libsoup-docs             |          | API Documentation for libsoup
 | libspeex - Audio compression format designed for speech and its converter application
 | libspeex-devel - Development package for speex
 | libstartup-notification - Startup Notification libraries
