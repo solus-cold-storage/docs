@@ -290,6 +290,7 @@ These are packages available in Solus as at the 3rd of May 2015
 * gnumeric-devel - Development files for gnumeric
 * gnupg - Complete and free implementation of OpenPGP
 * gnutls - Command line applications for GnuTLS
+* golang - Go programming language compiler
 * gobject-introspection - Generate interface introspection data for GObject libraries
 * gobject-introspection-devel - Development files for the GObject Introspection System
 * gparted - GParted is a free graphical disk partition editor
