@@ -1,5 +1,7 @@
 ####Links
 - Website: https://solus-project.com/
+- Download: https://solus-project.com/download/
+- Issues: https://github.com/solus-project/repository/issues
 - Email: root@solus-project.com
 - Github: https://github.com/solus-project/
 - Google+ Community: http://goo.gl/YAlwDz
@@ -8,3 +10,7 @@
 - IRC WebChat: http://webchat.freenode.net/?channels=solus
 - Subreddit: http://www.reddit.com/r/SolusProject/
 - Twitter: https://twitter.com/SolusProject
+- Forums: https://solus-project.com/forums/
+- Blog: https://solus-project.com/blog/
+- DistroWatch: http://distrowatch.com/table.php?distribution=solus
+- Donate: https://solus-project.com/donate/
