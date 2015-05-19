@@ -698,156 +698,156 @@ These are packages available in Solus as of May 19th, 2015.
 | libsoup                  |          | GNOME HTTP client/server library
 | libsoup-devel            |          | Development files for libsoup
 | libsoup-docs             |          | API Documentation for libsoup
-| libspeex - Audio compression format designed for speech and its converter application
-| libspeex-devel - Development package for speex
-| libstartup-notification - Startup Notification libraries
-| libstartup-notification-devel - Development files for libstartup-notification
-| libstdc++ - GNU Compiler Collection
-| libtasn1 - C Library that encodes and decodes DER/BER data following an ASN.1 schema
-| libtasn1-devel - Development files for libtasn1
-| libtasn1-docs - API Documentation for libtasn1
-| libtasn1-utils - Command line utilities for libtasn1
-| libtelepathy-glib - Telepathy is a D-Bus framework for unifying real time communication
-| libtelepathy-glib-devel - Development files for libtelepathy-glib
-| libtelepathy-glib-docs - API Documentation libtelepathy-glib
-| libtheora - Open source video format
-| libtheora-devel - Development files for libtheora
-| libtheora-docs - API Documentation for libtheora
-| libtiff - Library for accessing TIFF files
-| libtiff-devel - Development files for libtiff
-| libtiff-docs - Documentation for libtiff
-| libtiff-utils - Command line utilities for libtiff
-| libtimezonemap - GTK+3 timezone map widget
-| libtimezonemap-devel - Development files for libtimezonemap
-| libtool - Generic library support script
-| libunique - A library for writing single instance applications
-| libunique-devel - Development files for libunique
-| libunique-docs - Documentation for libunique
-| libunistring - Library for manipulating Unicode strings
-| libunistring-devel - Development files for libunistring
-| libunistring-docs - Documentation for libunistring
-| libusb - libusb (USB library)
-| libusb-devel - Development files for libusb
-| libva - Video Acceleration (VA) API for Linux
-| libva-devel - Development files for libva
-| libva-intel-driver - Intel HD graphics VA-API implementation
-| libvala - Vala libraries
-| libvala-devel - Vala development files
-| libvdpau - Video Decode and Presentation API for Unix
-| libvdpau-devel - Development files for libvdpau
-| libvorbis - Open source audio format
-| libvorbis-devel - Development files for libvorbis
-| libvorbis-docs - API Documentation for libvorbis
-| libvpx - Reference implementation of the VP8 codec
-| libvpx-devel - Development files for libvpx
-| libvte - The VTE package contains a termcap file implementation for terminal emulators
-| libvte-devel - Development files for libvte
-| libvte-docs - API Documentation for libvte
-| libwacom - The libwacom package contains a library used to identify wacom tablets and their model-specific features
-| libwacom-devel - Development files for libwacom
-| libwebkit-gtk - Web rendering engine
-| libwebkit-gtk-devel - Development files for libwebkitgtk
-| libwebkit-gtk-docs - API Documentation for libwebkitgtk
-| libwebp - A new image format for the web
-| libwebp-devel - Development files for libwebp
-| libwnck - Window Navigator Construction Kit
-| libwnck-devel - Development files for libwnck
-| libwnck-docs - API Documentation for libwnck
-| libwv - Library allowing access to Microsoft Word files
-| libwv-devel - Development files for libwv
-| libx11 - Core X11 protocol client library
-| libx11-devel - Development files for libx11
-| libx11-docs - Documentation for libx11
-| libxau - X Authorization Protocol library
-| libxau-devel - Development files for libxau
-| libxaw - X11 Athena Widget library
-| libxaw-devel - Development files for libxaw
-| libxaw3d - General-purpose replacement for the Athena toolkit
-| libxaw3d-devel - Development files for libxaw3d
-| libxcb - X C Binding
-| libxcb-devel - Development files for libxcb
-| libxcomposite - client library for the Composite extension to the X11 protocol
-| libxcomposite-devel - Development files for libxcomposite
-| libxcursor - X Cursor management library
-| libxcursor-devel - Development files for libxcursor
-| libxdamage - X11 damaged region extension library
-| libxdamage-devel - Development files for libxdamage
-| libxdmcp - X Display Manager Control Protocol library
-| libxdmcp-devel - Development files for libxdmcp
-| libxext - X11 common extensions base
-| libxext-devel - Development files for libxext
-| libxfixes - X11 miscellaneous 'fixes' extension library
-| libxfixes-devel - Development files for libxfixes
-| libxfont - X11 font rasterisation library
-| libxfont-devel - Development files for libxfont
-| libxft - FreeType-based font drawing library for X
-| libxft-devel - Development files for libxft
-| libxi - X Input Extension Library
-| libxi-devel - Development files for libxi
-| libxinerama - X Xinerama extension library
-| libxinerama-devel - Development files for libxinerama
-| libxkbcommon - xkbcommon is a library to handle keyboard description
-| libxkbcommon-devel - Development files for libxkbcommon
-| libxkbfile - X11 keyboard file manipulation library
-| libxkbfile-devel - Development files for libxkbfile
-| libxklavier - The libxklavier package contains a utility library for X keyboard
-| libxklavier-devel - Development files for libxklavier
-| libxklavier-docs - API Documentation for libxklavier
-| libxml2 - GNOME XML Library
-| libxml2-devel - Development files for libxml2
-| libxml2-docs - Documentation for libxml2
-| libxmu - X11 miscellaneous utility library
-| libxmu-devel - Development files for libxmu
-| libxpm - X Pixmap (XPM) image file format library
-| libxpm-devel - Development files for libxpm
-| libxrandr - X11 RandR extension library
-| libxrandr-devel - Development files for libxrandr
-| libxrender - X Rendering Extension client library
-| libxrender-devel - Development files for libxrender
-| libxres - X11 Resource extension library
-| libxres-devel - Development files for libxres
-| libxscrnsaver - X11 Screen Saver extension client library
-| libxscrnsaver-devel - Development files for libxscrnsaver
-| libxshmfence - X Linux futex event API
-| libxshmfence-devel - Development files for libxshmfence
-| libxslt - GNOME XSLT Library
-| libxslt-devel - GNOME XSLT Library
-| libxt - X Toolkit Intrinsics library
-| libxt-devel - Development files for libxt
-| libxtst - X11 Testing -- Record extension library
-| libxtst-devel - Development files for libxtst
-| libxv - X11 Video extension library
-| libxv-devel - Development files for libxv
-| libxvmc - X11 Video extension library - MotionCompensation
-| libxvmc-devel - Development files for libxvmc
-| libxxf86dga - X11 Direct Graphics Access extension library
-| libxxf86dga-devel - Development files for libxxf86dga
-| libxxf86vm - X11 XFree86 video mode extension library
-| libxxf86vm-devel - Development files for libxxf86vm
-| libzeitgeist - Client library used to access and manage the Zeitgeist event log
-| libzeitgeist-devel - Development files for libzeitgeist
-| libzeitgeist-docs - API Documentation for libzeitgeist
-| lightdm - Lightweight and attractive Display Manager
-| lightdm-devel - Development files for lightdm
-| lightdm-docs - API Documentation for lightdm
-| lightdm-gtk-greeter - Customisable GTK+ Greeter for LightDM
-| linux-firmware - Firmware required for many devices
-| llvm - Low Level Virtual Machine (Reusable compiler and toolchains
-| llvm-devel - Development files for LLVM
-| llvm-docs - API Documentation for LLVM
-| lm_sensors - User space hardware monitoring
-| lm_sensors-devel - Development files for lm_sensors
-| logrotate - Rotates, compresses, removes and emails system log files
-| lsb-release - LSB status script
-| lua - Lightweight programming language
-| lua-devel - Development files and compiler for lua
-| lua-docs - Documentation for lua
-| lvm2 - The LVM2 package is a package that manages logical partitions. It allows spanning of file systems across multiple physical disks and disk partitions and provides for dynamic growing or shrinking of logical partitions
-| lvm2-devel - Development files for lvm2 and device-mapper
-| lz4 - LZ4 commmand line tools
-| lz4-devel - Development files for lz4
-| lzip - Lossless data compressor
-| m4 - GNU M4 is an implementation of the traditional Unix macro processor
+| libspeex                 |          | Audio compression format designed for speech and its converter application
+| libspeex-devel           |          | Development package for speex
+| libstartup-notification  |          | Startup Notification libraries
+| libstartup-notification-devel|      | Development files for libstartup-notification
+| libstdc++                |          | GNU Compiler Collection
+| libtasn1                 |          | C Library that encodes and decodes DER/BER data following an ASN.1 schema
+| libtasn1-devel           |          | Development files for libtasn1
+| libtasn1-docs            |          | API Documentation for libtasn1
+| libtasn1-utils           |          | Command line utilities for libtasn1
+| libtelepathy-glib        |          | Telepathy is a D-Bus framework for unifying real time communication
+| libtelepathy-glib-devel  |          | Development files for libtelepathy-glib
+| libtelepathy-glib-docs   |          | API Documentation libtelepathy-glib
+| libtheora                |          | Open source video format
+| libtheora-devel          |          | Development files for libtheora
+| libtheora-docs           |          | API Documentation for libtheora
+| libtiff                  |          | Library for accessing TIFF files
+| libtiff-devel            |          | Development files for libtiff
+| libtiff-docs             |          | Documentation for libtiff
+| libtiff-utils            |          | Command line utilities for libtiff
+| libtimezonemap           |          | GTK+3 timezone map widget
+| libtimezonemap-devel     |          | Development files for libtimezonemap
+| libtool                  |          | Generic library support script
+| libunique                |          | A library for writing single instance applications
+| libunique-devel          |          | Development files for libunique
+| libunique-docs           |          | Documentation for libunique
+| libunistring             |          | Library for manipulating Unicode strings
+| libunistring-devel       |          | Development files for libunistring
+| libunistring-docs        |          | Documentation for libunistring
+| libusb                   |          | libusb (USB library)
+| libusb-devel             |          | Development files for libusb
+| libva                    |          | Video Acceleration (VA) API for Linux
+| libva-devel              |          | Development files for libva
+| libva-intel-driver       |          | Intel HD graphics VA-API implementation
+| libvala                  |          | Vala libraries
+| libvala-devel            |          | Vala development files
+| libvdpau                 |          | Video Decode and Presentation API for Unix
+| libvdpau-devel           |          | Development files for libvdpau
+| libvorbis                |          | Open source audio format
+| libvorbis-devel          |          | Development files for libvorbis
+| libvorbis-docs           |          | API Documentation for libvorbis
+| libvpx                   |          | Reference implementation of the VP8 codec
+| libvpx-devel             |          | Development files for libvpx
+| libvte                   |          | The VTE package contains a termcap file implementation for terminal emulators
+| libvte-devel             |          | Development files for libvte
+| libvte-docs              |          | API Documentation for libvte
+| libwacom                 |          | The libwacom package contains a library used to identify wacom tablets and their model-specific features
+| libwacom-devel           |          | Development files for libwacom
+| libwebkit-gtk            |          | Web rendering engine
+| libwebkit-gtk-devel      |          | Development files for libwebkitgtk
+| libwebkit-gtk-docs       |          | API Documentation for libwebkitgtk
+| libwebp                  |          | A new image format for the web
+| libwebp-devel            |          | Development files for libwebp
+| libwnck                  |          | Window Navigator Construction Kit
+| libwnck-devel            |          | Development files for libwnck
+| libwnck-docs             |          | API Documentation for libwnck
+| libwv                    |          | Library allowing access to Microsoft Word files
+| libwv-devel              |          | Development files for libwv
+| libx11                   |          | Core X11 protocol client library
+| libx11-devel             |          | Development files for libx11
+| libx11-docs              |          | Documentation for libx11
+| libxau                   |          | X Authorization Protocol library
+| libxau-devel             |          | Development files for libxau
+| libxaw                   |          | X11 Athena Widget library
+| libxaw-devel             |          | Development files for libxaw
+| libxaw3d                 |          | General-purpose replacement for the Athena toolkit
+| libxaw3d-devel           |          | Development files for libxaw3d
+| libxcb                   |          | X C Binding
+| libxcb-devel             |          | Development files for libxcb
+| libxcomposite            |          | client library for the Composite extension to the X11 protocol
+| libxcomposite-devel      |          | Development files for libxcomposite
+| libxcursor               |          | X Cursor management library
+| libxcursor-devel         |          | Development files for libxcursor
+| libxdamage               |          | X11 damaged region extension library
+| libxdamage-devel         |          | Development files for libxdamage
+| libxdmcp                 |          | X Display Manager Control Protocol library
+| libxdmcp-devel           |          | Development files for libxdmcp
+| libxext                  |          | X11 common extensions base
+| libxext-devel            |          | Development files for libxext
+| libxfixes                |          | X11 miscellaneous 'fixes' extension library
+| libxfixes-devel          |          | Development files for libxfixes
+| libxfont                 |          | X11 font rasterisation library
+| libxfont-devel           |          | Development files for libxfont
+| libxft                   |          | FreeType-based font drawing library for X
+| libxft-devel             |          | Development files for libxft
+| libxi                    |          | X Input Extension Library
+| libxi-devel              |          | Development files for libxi
+| libxinerama              |          | X Xinerama extension library
+| libxinerama-devel        |          | Development files for libxinerama
+| libxkbcommon             |          | xkbcommon is a library to handle keyboard description
+| libxkbcommon-devel       |          | Development files for libxkbcommon
+| libxkbfile               |          | X11 keyboard file manipulation library
+| libxkbfile-devel         |          | Development files for libxkbfile
+| libxklavier              |          | The libxklavier package contains a utility library for X keyboard
+| libxklavier-devel        |          | Development files for libxklavier
+| libxklavier-docs         |          | API Documentation for libxklavier
+| libxml2                  |          | GNOME XML Library
+| libxml2-devel            |          | Development files for libxml2
+| libxml2-docs             |          | Documentation for libxml2
+| libxmu                   |          | X11 miscellaneous utility library
+| libxmu-devel             |          | Development files for libxmu
+| libxpm                   |          | X Pixmap (XPM) image file format library
+| libxpm-devel             |          | Development files for libxpm
+| libxrandr                |          | X11 RandR extension library
+| libxrandr-devel          |          | Development files for libxrandr
+| libxrender               |          | X Rendering Extension client library
+| libxrender-devel         |          | Development files for libxrender
+| libxres                  |          | X11 Resource extension library
+| libxres-devel            |          | Development files for libxres
+| libxscrnsaver            |	      | X11 Screen Saver extension client library
+| libxscrnsaver-devel      |          | Development files for libxscrnsaver
+| libxshmfence             |	      | X Linux futex event API
+| libxshmfence-devel       |          | Development files for libxshmfence
+| libxslt                  |	      | GNOME XSLT Library
+| libxslt-devel            |          | GNOME XSLT Library
+| libxt                    |          | X Toolkit Intrinsics library
+| libxt-devel              |          | Development files for libxt
+| libxtst 		   |	      | X11 Testing -- Record extension library
+| libxtst-devel            |	      | Development files for libxtst
+| libxv                    |          | X11 Video extension library
+| libxv-devel              |          | Development files for libxv
+| libxvmc                  |          | X11 Video extension library - MotionCompensation
+| libxvmc-devel            |          | Development files for libxvmc
+| libxxf86dga              |          | X11 Direct Graphics Access extension library
+| libxxf86dga-devel        |          | Development files for libxxf86dga
+| libxxf86vm               |          | X11 XFree86 video mode extension library
+| libxxf86vm-devel         |          | Development files for libxxf86vm
+| libzeitgeist             |          | Client library used to access and manage the Zeitgeist event log
+| libzeitgeist-devel       |          | Development files for libzeitgeist
+| libzeitgeist-docs        |          | API Documentation for libzeitgeist
+| lightdm                  |          | Lightweight and attractive Display Manager
+| lightdm-devel            |          | Development files for lightdm
+| lightdm-docs             |          | API Documentation for lightdm
+| lightdm-gtk-greeter      |          | Customisable GTK+ Greeter for LightDM
+| linux-firmware           |          | Firmware required for many devices
+| llvm                     |          | Low Level Virtual Machine (Reusable compiler and toolchains
+| llvm-devel               |          | Development files for LLVM
+| llvm-docs                |          | API Documentation for LLVM
+| lm_sensors               |          | User space hardware monitoring
+| lm_sensors-devel         |          | Development files for lm_sensors
+| logrotate                |          | Rotates, compresses, removes and emails system log files
+| lsb-release              |          | LSB status script
+| lua                      |          | Lightweight programming language
+| lua-devel                |          | Development files and compiler for lua
+| lua-docs                 |          | Documentation for lua
+| lvm2                     |          | The LVM2 package is a package that manages logical partitions. It allows spanning of file systems across multiple physical disks and disk partitions and provides for dynamic growing or shrinking of logical partitions
+| lvm2-devel               |          | Development files for lvm2 and device-mapper
+| lz4                      |          | LZ4 commmand line tools
+| lz4-devel                |          | Development files for lz4
+| lzip                     |          | Lossless data compressor
+| m4                       |          | GNU M4 is an implementation of the traditional Unix macro processor
 | make - Tool to compile sources trees
 | man-db - Application to read Linux man pages
 | mc - GNU midnight commander (ncurses based file manager)
