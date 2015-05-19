@@ -1,10 +1,8 @@
 # Contributors
-| Name | Nickname | Responsibility |
-| -- | -- | -- |
-| Ikey Doherty | ikey/ufee1dead | Project Lead |
-| Justin Zobel | JustinZ | Packaging Lead |
-| Ryan Sipes | ryan_evos | Journal/Quirky/Artwork |
-| Alexandros Felekidis | afel | Artwork |
-| Peter Cornelis | poltertec | Artwork/GTK Theme/Icon Theme |
-| Alejandro Seoane | senseiner | Artwork/Wallpapers |
-| Brian Medine | BWMedine | Artwork |
+* __Ikey Doherty__ | ikey/ufee1dead | Project Lead |
+* __Justin Zobel__ | JustinZ | Packaging Lead |
+* __Ryan Sipes__ | ryan_evos | Journal/Quirky/Artwork |
+* __Alexandros Felekidis__ | afel | Artwork |
+* __Peter Cornelis__ | poltertec | Artwork/GTK Theme/Icon Theme |
+* __Alejandro Seoane__ | senseiner | Artwork/Wallpapers |
+* __Brian Medine__ | BWMedine | Artwork |
