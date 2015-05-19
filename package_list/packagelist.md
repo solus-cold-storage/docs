@@ -848,156 +848,156 @@ These are packages available in Solus as of May 19th, 2015.
 | lz4-devel                |          | Development files for lz4
 | lzip                     |          | Lossless data compressor
 | m4                       |          | GNU M4 is an implementation of the traditional Unix macro processor
-| make - Tool to compile sources trees
-| man-db - Application to read Linux man pages
-| mc - GNU midnight commander (ncurses based file manager)
-| mesalib - Mesa is an OpenGL compatible 3D graphics library
-| mesalib-demos - Demontration of mesalib
-| mesalib-devel - Development files for mesalib
-| mlocate - 'locate' implementation
-| modem-manager - GNOME Modem Manager
-| modem-manager-devel - Development files for modem-manager
-| moka-icon-theme - Moka Icon Theme
-| mono - Mono is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime
-| mono-addins - Mono.Addins
-| mono-addins-devel - Development files for mono-addins
-| mono-devel - Development files for mono
-| mozjs - JS is Mozilla's JavaScript engine written in C/C++
-| mozjs-devel - Development files for mozjs
-| mozjs17 - Spidermonkey 17 JavaScript Engine
-| mozjs17-devel - Development files for mozjs17
-| mpc - The MPC package contains a library for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result
-| mpc-devel - Development files for mpc
-| mpfr - The MPFR package contains functions for multiple precision math.
-| mpfr-devel - Development files for mpfr
-| mpg123 - Console based mp3 decoder
-| mpv - mpv is a fork of mplayer2 and MPlayer. It shares some features with the former projects while introducing many more
-| mpv-devel - Development files for mpv
-| mtdev - Multitouch Protocol Translation Library
-| mtdev-devel - Development files for mtdev
-| mtr - Combines the functionality of traceroute and ping into one tool (CLI version)
-| mumble - High quality voice chat software
-| mutter - Gnome Shell Window Manager
-| mutter-devel - Development files for mutter
-| mutter-docs - API Documentation for mutter
-| nano - Small, friendly text editor inspired by Pico
-| nasm - Netwide Assembler
-| nasm-docs - Documentation for nasm
-| nautilus - The file manager of the GNOME desktop
-| nautilus-devel - Development files for Nautilus
-| nautilus-docs - API Documentation for Nautilus
-| nautilus-dropbox - Dropbox linux client
-| ncdu - Disk usage analyzer with ncurses interface
-| ncurses - The ncurses library routines are a terminal-independent method of updating character screens with reasonable optimization
-| ncurses-devel - Development files for ncurses
-| neon - neon is an HTTP and WebDAV client library
-| neon-devel - Development files for neon
-| netlink-cli - CLI utilities for the Netlink Protocol
-| nettle-bin - Low level cryptographic library (binary tools)
-| network-manager - Simple networking
-| network-manager-applet - NetworkManager Applet
-| network-manager-applet-devel - Development files for network-manager-applet
-| network-manager-devel - Development files for network-manager
-| network-manager-docs - Documentation for network-manager
-| nmap - Utility for network discovery and security auditing
-| nodejs - Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
-| nodejs-devel - Development files for nodejs
-| ntfs-3g - Open source, driver for Windows NTFS file system
-| ntfs-3g-devel - Development files for ntfs-3g
-| numix-icon-theme - The Numix Icon Theme
-| numix-icon-theme-circle - Numix Circle Icon Theme
-| openal-soft - Open Source OpenAL implementation
-| openal-soft-devel - Open Source OpenAL implementation
-| opencolorio - A color management framework for visual effects and animation.
-| opencolorio-devel - Development files for opencolorio
-| openssh - OpenSSH (OpenBSD Secure Shell)
-| openssh-server - OpenSSH daemon
-| openssl - Cryptographic tools required by many packages
-| openssl-devel - Development files for openssl
-| optipng - PNG optimizer recompresses image files to a smaller size, without losing any information
-| orc - The Oil Runtime Compiler
-| orc-devel - Development files for orc
-| orc-docs - API Documentation for orc
-| os-installer - Install OS to disk
-| os-prober - Detects OSes available on the system
-| pacifica-icon-theme - Clean and modern icon theme
-| packagekit - D-Bus abstraction layer that allows the session user to manage packages in a secure way using a cross-distro, cross-architecture API
-| packagekit-devel - Development files for packagekit
-| packagekit-docs - API Documentation for packagekit
-| pam - Pluggable Authentication Modules library
-| pam-devel - Development files for PAM
-| pango - pango (Library for laying out and rendering text)
-| pango-devel - Development files for pango
-| pangomm - C++ binding to pango
-| pangomm-devel - Development files for pangomm
-| pangomm-docs - API Documentation for pangomm
-| pantheon-terminal - A super lightweight, beautiful, and simple terminal
-| parallel - Execute jobs in parallel
-| parted - Disk partitioning and partition resizing tool
-| patch - patch (patches source files)
-| pciutils - Utilities to deal with PCI bus
-| pciutils-devel - Development files for pciutils
-| perl - Perl
-| perl-archive-zip - Perl Archive::Zip module
-| perl-authen-sasl - Authen::SASL - SASL Authentication framework
-| perl-docs - Perl developer documentation
-| perl-error - Perl error module
-| perl-extutils-makemaker - ExtUtils::MakeMaker - Create a module Makefile
-| perl-io - IO::Socket - Object interface to socket communications
-| perl-io-socket-ssl - IO::Socket::SSL -- Nearly transparent SSL encapsulation for IO::Socket::INET
-| perl-libnet - Perl Net:: namespace
-| perl-mime-base64 - MIME::Base64 - Encoding and decoding of base64 strings
-| perl-net-smtp-ssl - Net::SMTP::SSL - SSL support for Net::SMTP
-| perl-net-ssleay - Net::SSLeay - Perl extension for using OpenSSL
-| perl-uri - Perl URI class module
-| perl-xml-namespacesupport - XML::NameSpaceSupport - a simple generic namespace support class
-| perl-xml-saxbase - XML::SAX::Base - Base class SAX Drivers and Filters
-| perl-xmlparser - XML Parsing Module for Perl
-| perl-xmlsimple - Simple XML access for Perl
-| pidgin - Graphical multi-protocol IM client
-| pidgin-devel - Development files for Pidgin
-| piksemel - Python XML API based on the iksemel library.
-| pinentry - Pin or pass-phrase entry dialog
-| pinta - Pinta Painting Made Simple
-| pip - The PyPA recommended tool for installing Python packages.
-| pisi - PISI
-| pixman - pixman (software library for pixel manipulation)
-| pixman-devel - Development files for pixman
-| pkg-config - manage compile and link flags for libraries
-| plank - Simple application dock
-| plank-devel - Development files for plank
-| plymouth - System boot screen
-| plymouth-devel - Development files for plymouth
-| polkit - Application-level authorization toolkit
-| polkit-devel - Development files for polkit
-| polkit-gnome - GNOME Polkit Authentication Agent
-| poppler - PDF Rendering Library
-| poppler-devel - Development files for poppler
-| poppler-docs - API documentation for poppler
-| poppler-utils - Commandline utilities for poppler
-| popt - popt
-| popt-devel - Development files for popt
-| portaudio - PortAudio is a free, cross-platform, open-source, audio I/O library
-| portaudio-devel - Development files for portaudio
-| powertop - PowerTOP is a Linux tool to diagnose issues with power consumption and power management.
-| presentproto - X11 Present Extension
-| procps-ng - /proc file system utilities
-| procps-ng-devel - Development headers for procps-ng
-| protobuf - Protocol Buffers - Google's data interchange format
-| protobuf-devel - Development files for protobuf
-| psensor - Psensor is a graphical hardware temperature monitor for Linux
-| psmisc - PSMisc
-| pulseaudio - Advanced sound system
-| pulseaudio-devel - Development files for pulseaudio
-| python - Python
-| python-cairo - Python Cairo Bindings
-| python-cairo-devel - Development files for python-cairo
-| python-configobj - ini config file reader and writer in Python
-| python-dbus - D-Bus module for Python
-| python-dbus-devel - D-Bus module for Python
-| python-docutils - Python Documentation Utilities
-| python-geoip - Python API for GeoIP lookups
-| python-gobject - Python GObject bindings
+| make                     |          | Tool to compile sources trees
+| man-db                   |          | Application to read Linux man pages
+| mc                       |          | GNU midnight commander (ncurses based file manager)
+| mesalib                  |          | Mesa is an OpenGL compatible 3D graphics library
+| mesalib-demos            |          | Demontration of mesalib
+| mesalib-devel            |          | Development files for mesalib
+| mlocate                  |          | 'locate' implementation
+| modem-manager            |          | GNOME Modem Manager
+| modem-manager-devel      |          | Development files for modem-manager
+| moka-icon-theme          |          | Moka Icon Theme
+| mono                     |          | Mono is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime
+| mono-addins              |          | Mono.Addins
+| mono-addins-devel        |          | Development files for mono-addins
+| mono-devel               |          | Development files for mono
+| mozjs                    |          | JS is Mozilla's JavaScript engine written in C/C++
+| mozjs-devel              |          | Development files for mozjs
+| mozjs17                  |          | Spidermonkey 17 JavaScript Engine
+| mozjs17-devel            |          | Development files for mozjs17
+| mpc                      |          | The MPC package contains a library for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result
+| mpc-devel                |          | Development files for mpc
+| mpfr                     |          | The MPFR package contains functions for multiple precision math.
+| mpfr-devel               |          | Development files for mpfr
+| mpg123                   |          | Console based mp3 decoder
+| mpv                      |          | mpv is a fork of mplayer2 and MPlayer. It shares some features with the former projects while introducing many more
+| mpv-devel                |          | Development files for mpv
+| mtdev                    |          | Multitouch Protocol Translation Library
+| mtdev-devel              |          | Development files for mtdev
+| mtr                      |          | Combines the functionality of traceroute and ping into one tool (CLI version)
+| mumble                   |          | High quality voice chat software
+| mutter                   |          | Gnome Shell Window Manager
+| mutter-devel             |          | Development files for mutter
+| mutter-docs              |          | API Documentation for mutter
+| nano                     |          | Small, friendly text editor inspired by Pico
+| nasm                     |          | Netwide Assembler
+| nasm-docs                |          | Documentation for nasm
+| nautilus                 |          | The file manager of the GNOME desktop
+| nautilus-devel           |          | Development files for Nautilus
+| nautilus-docs            |          | API Documentation for Nautilus
+| nautilus-dropbox         |          | Dropbox linux client
+| ncdu                     |          | Disk usage analyzer with ncurses interface
+| ncurses                  |          | The ncurses library routines are a terminal-independent method of updating character screens with reasonable optimization
+| ncurses-devel            |          | Development files for ncurses
+| neon                     |          | neon is an HTTP and WebDAV client library
+| neon-devel               |          | Development files for neon
+| netlink-cli              |          | CLI utilities for the Netlink Protocol
+| nettle-bin               |          | Low level cryptographic library (binary tools)
+| network-manager          |          | Simple networking
+| network-manager-applet   |          | NetworkManager Applet
+| network-manager-applet-devel|       | Development files for network-manager-applet
+| network-manager-devel    |          | Development files for network-manager
+| network-manager-docs     |          | Documentation for network-manager
+| nmap                     |          | Utility for network discovery and security auditing
+| nodejs                   |          | Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
+| nodejs-devel             |          | Development files for nodejs
+| ntfs-3g                  |          | Open source, driver for Windows NTFS file system
+| ntfs-3g-devel            |          | Development files for ntfs-3g
+| numix-icon-theme         |          | The Numix Icon Theme
+| numix-icon-theme-circle  |          | Numix Circle Icon Theme
+| openal-soft              |          | Open Source OpenAL implementation
+| openal-soft-devel        |          | Open Source OpenAL implementation
+| opencolorio              |          | A color management framework for visual effects and animation
+| opencolorio-devel        |          | Development files for opencolorio
+| openssh                  |          | OpenSSH (OpenBSD Secure Shell)
+| openssh-server           |          | OpenSSH daemon
+| openssl                  |          | Cryptographic tools required by many packages
+| openssl-devel            |          | Development files for openssl
+| optipng                  |          | PNG optimizer recompresses image files to a smaller size, without losing any information
+| orc                      |          | The Oil Runtime Compiler
+| orc-devel                |          | Development files for orc
+| orc-docs                 |          | API Documentation for orc
+| os-installer             |          | Install OS to disk
+| os-prober                |          | Detects OSes available on the system
+| pacifica-icon-theme      |          | Clean and modern icon theme
+| packagekit               |          | D-Bus abstraction layer that allows the session user to manage packages in a secure way using a cross-distro, cross-architecture API
+| packagekit-devel         |          | Development files for packagekit
+| packagekit-docs          |          | API Documentation for packagekit
+| pam                      |          | Pluggable Authentication Modules library
+| pam-devel                |          | Development files for PAM
+| pango                    |          | pango (Library for laying out and rendering text)
+| pango-devel              |          | Development files for pango
+| pangomm                  |          | C++ binding to pango
+| pangomm-devel            |          | Development files for pangomm
+| pangomm-docs             |          | API Documentation for pangomm
+| pantheon-terminal        |          | A super lightweight, beautiful, and simple terminal
+| parallel                 |          | Execute jobs in parallel
+| parted                   |          | Disk partitioning and partition resizing tool
+| patch                    |          | patch (patches source files)
+| pciutils                 |          | Utilities to deal with PCI bus
+| pciutils-devel           |          | Development files for pciutils
+| perl                     |          | Perl programming language
+| perl-archive-zip         |          | Perl Archive::Zip module
+| perl-authen-sasl         |          | Authen::SASL - SASL Authentication framework
+| perl-docs                |          | Perl developer documentation
+| perl-error               |          | Perl error module
+| perl-extutils-makemaker  |          | ExtUtils::MakeMaker - Create a module Makefile
+| perl-io                  |          | IO::Socket - Object interface to socket communications
+| perl-io-socket-ssl       |          | IO::Socket::SSL -- Nearly transparent SSL encapsulation for IO::Socket::INET
+| perl-libnet              |          | Perl Net:: namespace
+| perl-mime-base64         |          | MIME::Base64 - Encoding and decoding of base64 strings
+| perl-net-smtp-ssl        |          | Net::SMTP::SSL - SSL support for Net::SMTP
+| perl-net-ssleay          |          | Net::SSLeay - Perl extension for using OpenSSL
+| perl-uri                 |          | Perl URI class module
+| perl-xml-namespacesupport|          | XML::NameSpaceSupport - a simple generic namespace support class
+| perl-xml-saxbase         |          | XML::SAX::Base - Base class SAX Drivers and Filters
+| perl-xmlparser           |          | XML Parsing Module for Perl
+| perl-xmlsimple           |          | Simple XML access for Perl
+| pidgin                   |          | Graphical multi-protocol IM client
+| pidgin-devel             |          | Development files for Pidgin
+| piksemel                 |          | Python XML API based on the iksemel library
+| pinentry                 |          | Pin or pass-phrase entry dialog
+| pinta                    |          | Pinta Painting Made Simple
+| pip                      |          | The PyPA recommended tool for installing Python packages
+| pisi                     |          | Package Installed Succesfully as Intended
+| pixman                   |          | pixman (software library for pixel manipulation)
+| pixman-devel             |          | Development files for pixman
+| pkg-config               |          | manage compile and link flags for libraries
+| plank                    |          | Simple application dock
+| plank-devel              |          | Development files for plank
+| plymouth                 |          | System boot screen
+| plymouth-devel           |          | Development files for plymouth
+| polkit                   |          | Application-level authorization toolkit
+| polkit-devel             |          | Development files for polkit
+| polkit-gnome             |          | GNOME Polkit Authentication Agent
+| poppler                  |          |PDF Rendering Library
+| poppler-devel            |          | Development files for poppler
+| poppler-docs             |          | API documentation for poppler
+| poppler-utils            |          | Commandline utilities for poppler
+| popt                     |          | parses options in command lines
+| popt-devel               |          | Development files for popt
+| portaudio                |          | PortAudio is a free, cross-platform, open-source, audio I/O library
+| portaudio-devel          |          | Development files for portaudio
+| powertop                 |          | PowerTOP is a Linux tool to diagnose issues with power consumption and power management
+| presentproto             |          | X11 Present Extension
+| procps-ng                |          | /proc file system utilities
+| procps-ng-devel          |          | Development headers for procps-ng
+| protobuf                 |          | Protocol Buffers - Google's data interchange format
+| protobuf-devel           |          | Development files for protobuf
+| psensor                  |          | Psensor is a graphical hardware temperature monitor for Linux
+| psmisc                   |          | PSmisc package is a set of some small useful utilities that use the proc filesystem
+| pulseaudio               |          | Advanced sound system
+| pulseaudio-devel         |          | Development files for pulseaudio
+| python                   |          | Python programming language
+| python-cairo             |          | Python Cairo Bindings
+| python-cairo-devel       |          | Development files for python-cairo
+| python-configobj         |          | ini config file reader and writer in Python
+| python-dbus              |          | D-Bus module for Python
+| python-dbus-devel        |          | D-Bus module for Python
+| python-docutils          |          | Python Documentation Utilities
+| python-geoip             |          | Python API for GeoIP lookups
+| python-gobject           |          | Python GObject bindings
 | python-gobject-devel - Development files for python-gobject
 | python-gobject2 - PyGTK for GTK2 libraries
 | python-gobject2-devel - Development files for python-gobject2
