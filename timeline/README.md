@@ -6,10 +6,10 @@
 * Sep 7 2014 - Alpha 4 released
 * Jan 25 2015 - Beta 1 released
 * Mar 15 2015 - Beta 1.1 released
+* May 17 2015 - Beta 2 released
 
 ###Future###
 Note: Dates are estimates and can change.
-* May 14 2015 - Beta 2
 * June 18th 2015 - Release Candidate 1
 * July 2nd 2015 - Release Candidate 2
 * July 16th 2015 - Solus 1.0
