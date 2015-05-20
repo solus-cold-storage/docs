@@ -1,7 +1,7 @@
 # Package List
 
 | Name | Version |
-| -- | -- |
+|:-----|:-------:|
 | a52dec | 0.7.4 |
 | aalib | 1.4.0 |
 | aalib-devel | 1.4.0 |
