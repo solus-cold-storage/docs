@@ -21,6 +21,7 @@
 | at-spi2-atk | 2.6.2 |
 | at-spi2-atk-devel | 2.6.2 |
 | at-spi2-devel | 2.6.3 |
+| atom | 0.201.0 |
 | attr | 2.4.46 |
 | attr-devel | 2.4.46 |
 | audacious | 3.6.1 |
