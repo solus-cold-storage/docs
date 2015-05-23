@@ -10,9 +10,9 @@ http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.h
 Extract JRE and move it to /opt:
 ```
 cd ~/Downloads
-tar xf jre-8u40-linux-x64.tar.gz
-sudo mv jre1.8.0_40 /opt/
-sudo ln -s /opt/jre1.8.0_40/bin/java /usr/bin/java
+tar xf jre-8u45-linux-x64.tar.gz
+sudo mv jre1.8.0_45 /opt/
+sudo ln -s /opt/jre1.8.0_45/bin/java /usr/bin/java
 ```
 
 Grab the Minecraft files and menu entry:

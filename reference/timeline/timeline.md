@@ -19,5 +19,5 @@ Note: Dates are estimates and can change.
 | Release Name | Date        |
 |:-------------|:-----------:|
 | RC1          | Jun 18 2015 |
-| RC2          | Jul 02 2015 | 
+| RC2          | Jul 02 2015 |
 | Solus 1.0    | Jul 16 2015 |
