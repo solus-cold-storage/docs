@@ -1177,7 +1177,7 @@
 | wpa_supplicant | 2.3 |
 | wxwidgets | 3.0.2 |
 | wxwidgets-devel | 3.0.2 |
-| x264 | 20140818.2245 |
+| x264 | 20141218.2245 |
 | x264-devel | 20140818.2245 |
 | xauth | 1.0.7 |
 | xcb-proto | 1.11 |
@@ -1236,7 +1236,7 @@
 | xz | 5.0.5 |
 | xz-devel | 5.0.5 |
 | yasm | 1.2.0 |
-| youtube-dl | 2015.04.09 |
+| youtube-dl | 2015.05.20 |
 | ypkg | 3 |
 | zenity | 3.14 |
 | zip | 3.0 |
