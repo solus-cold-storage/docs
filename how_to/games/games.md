@@ -1,0 +1,2 @@
+# Games
+* [Minecraft](minecraft.md)

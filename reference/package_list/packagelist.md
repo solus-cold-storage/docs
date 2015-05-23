@@ -21,6 +21,7 @@
 | at-spi2-atk | 2.6.2 |
 | at-spi2-atk-devel | 2.6.2 |
 | at-spi2-devel | 2.6.3 |
+| atom | 0.201.0 |
 | attr | 2.4.46 |
 | attr-devel | 2.4.46 |
 | audacious | 3.6.1 |
@@ -582,6 +583,7 @@
 | libice-devel | 1.0.9 |
 | libicu | 50.12 |
 | libicu-devel | 50.12 |
+| libid3tag | 0.15.1b |
 | libideviceactivation | 1.0.0 |
 | libideviceactivation-devel | 1.0.0 |
 | libidn | 1.29 |
@@ -627,6 +629,7 @@
 | libmpeg2-utils | 0.5.1 |
 | libmpg123 | 1.20.1 |
 | libmpg123-devel | 1.20.1 |
+| libmtp | 1.1.9 |
 | libnettle | 2.7.1 |
 | libnettle-devel | 2.7.1 |
 | libnl | 3.2.21 |
