@@ -7,6 +7,7 @@ Now install the dependencies and VirtualBox like so:
 ```
 sudo eopkg it -c system.devel
 sudo eopkg it kernel-headers
+chmod +x VirtualBox-4.3.26-98988-Linux_amd64.run
 sudo ./VirtualBox-4.3.26-98988-Linux_amd64.run
 sudo /etc/init.d/vboxdrv setup
 ```
