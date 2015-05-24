@@ -1111,6 +1111,7 @@
 | sqlite3-devel | 3.8.9.0 |
 | sqlite3-docs | 3.7.16.1 |
 | squashfs-tools | 4.3 |
+| sshfs-fuse-2.5-1-1-x86_64 | 2.5-1-1 |
 | sudo | 1.8.7 |
 | sysstat | 10.0.5 |
 | systemd | 218 |
