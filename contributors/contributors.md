@@ -8,3 +8,4 @@
 | __Peter Cornelis__       | poltertec      | Artwork/GTK Theme/Icon Theme |
 | __Alejandro Seoane__     | senseiner      | Artwork/Wallpapers           |
 | __Brian Medine__         | BWMedine       | Artwork                      |
+| __Michael Rutherford__   | 0xMLR          | Journal                      |
