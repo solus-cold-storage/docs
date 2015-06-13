@@ -3,7 +3,7 @@
 Below is the commands you can use in eopkg our package management system.
 
 | Command | Shortcut | Action taken | Example |
-| -- | -- | -- | -- |
+|----|----|----|----|
 | add-repo | ar | Add a new repository | sudo eopkg ar Solus2 http://www.example.com/main/eopkg-index.xml.xz |
 | delete-cache | dc | Delete's .eopkg file cache | sudo eopkg dc |
 | fetch | fc | Download an eopkg but do not install | eopkg fc gedit |
