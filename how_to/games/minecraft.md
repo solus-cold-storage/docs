@@ -19,7 +19,7 @@ Grab the Minecraft files and menu entry:
 ```
 sudo mkdir -p /opt/Minecraft
 sudo wget https://s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar -O /opt/Minecraft/Minecraft.jar
-sudo wget http://users.on.net/justin.zobel/minecraft -O /usr/bin/minecraft
+sudo wget http://solus-builder.tk/minecraft -O /usr/bin/minecraft
 sudo chmod +x /usr/bin/minecraft
-sudo wget http://users.on.net/justin.zobel/minecraft.desktop -O /usr/share/applications/minecraft.desktop
+sudo wget http://solus-builder.tk/minecraft.desktop -O /usr/share/applications/minecraft.desktop
 ```
