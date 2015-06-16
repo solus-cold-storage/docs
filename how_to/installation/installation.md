@@ -1,15 +1,23 @@
 # Installation
-###Requirements:
+
+### Requirements:
 - USB drive of 2GB or more
 - Ability to boot via USB
 - ISO file from https://solus-project.com/download/
+****
 
-####Windows Tools:
-**SUSE Image Writer** - https://github.com/downloads/openSUSE/kiwi/ImageWriter.exe
+### Windows Tools:
+**SUSE Image Writer**
 
-**Rufus** - https://rufus.akeo.ie/
+https://github.com/downloads/openSUSE/kiwi/ImageWriter.exe
 
-####Linux:
+**Rufus**
+
+https://rufus.akeo.ie/
+****
+### Linux Tools:
+**Note unetbootin does NOT work**
+
 **Gnome Multi-Writer (GUI)**
 
 https://wiki.gnome.org/Apps/MultiWriter

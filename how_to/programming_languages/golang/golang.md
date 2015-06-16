@@ -1,16 +1,17 @@
 #Golang
-- Run the following commands in a terminal (or download golang from the Software Center):
+Run the following commands in a terminal (or download golang from the Software Center):
 
-    > sudo pisi install golang
-    
-    > mkdir ~/Go
-    
-    > cd ~/Go
-    
-    > mkdir src && mkdir pkg && mkdir bin
+```
+sudo eopkg install golang
+mkdir ~/Go
+cd ~/Go
+mkdir src && mkdir pkg && mkdir bin
+```
 
-- Add the following line to the .profile file in your home directory:
+Add the following line to the .profile file in your home directory:
 
-    > export GOPATH=~/Go
+```
+export GOPATH=~/Go
+```
 
-- Golang is ready to use!
+Golang is ready to use!

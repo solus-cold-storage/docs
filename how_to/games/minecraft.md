@@ -12,19 +12,14 @@ Extract JRE and move it to /opt:
 cd ~/Downloads
 tar xf jre-8u45-linux-x64.tar.gz
 sudo mv jre1.8.0_45 /opt/
-sudo ln -s /opt/jre1.8.0_45/bin/java /usr/bin/java
+sudo ln -sv /opt/jre1.8.0_45/bin/java /usr/bin/java
 ```
 
 Grab the Minecraft files and menu entry:
 ```
-sudo mkdir /opt/Minecraft
+sudo mkdir -p /opt/Minecraft
 sudo wget https://s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar -O /opt/Minecraft/Minecraft.jar
 sudo wget http://users.on.net/justin.zobel/minecraft -O /usr/bin/minecraft
 sudo chmod +x /usr/bin/minecraft
 sudo wget http://users.on.net/justin.zobel/minecraft.desktop -O /usr/share/applications/minecraft.desktop
-```
-
-You know have a Minecraft Entry in Budgie Menu and you can run it from any terminal by typing:
-```
-minecraft
 ```

@@ -3,11 +3,15 @@
 ## NVIDIA
 Update your system:
 
-```sudo eopkg upgrade```
+```
+sudo eopkg upgrade
+```
 
 Install driver:
 
-```sudo eopkg install nvidia-glx-driver```
+```
+sudo eopkg install nvidia-glx-driver
+```
 
 Reboot!
 
